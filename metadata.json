@@ -1,0 +1,6 @@
+{
+  "name": "SQL Quest: Interactive Learning Game",
+  "description": "เว็บแอปพลิเคชันสอนภาษา SQL แบบเกมตอบคำถาม เติมคำ ลากวางคำตอบ และโหมดท้าทายพิมพ์คำสั่ง SQL ด้วยตนเอง พร้อมระบบอาจารย์สร้างโจทย์ ตารางจำลอง orders/order_details และระบบนักเรียนสะสมคะแนน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
